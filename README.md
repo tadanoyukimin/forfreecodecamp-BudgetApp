@@ -48,4 +48,4 @@ The unit tests for this project are in `test_module.py`. We imported the tests f
 Copy your project's URL and submit it to freeCodeCamp.
 
 
-Taken from the READ.MD from the replit found on freeCodeCamp.
+Taken from the README.MD from the replit found on freeCodeCamp.
